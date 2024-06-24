@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Hiberante-07-Interactingwith2DB&apos;s/src/in/pwskills/nitin/cfgs/oracle-hibernate.cfg.xml&apos; to &apos;mysql2-hibernate.cfg.xml&apos;" description="Rename resource &apos;oracle-hibernate.cfg.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/in/pwskills/nitin/cfgs/oracle-hibernate.cfg.xml" name="mysql2-hibernate.cfg.xml" stamp="1717175161346" updateReferences="true"/>
+</session>

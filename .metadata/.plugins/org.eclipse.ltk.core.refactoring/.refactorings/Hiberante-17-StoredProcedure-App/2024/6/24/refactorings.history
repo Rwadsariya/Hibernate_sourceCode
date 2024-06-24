@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;in.pwskills.nitin.bean.Products&apos; to &apos;Product&apos;&#x0D;&#x0A;- Original project: &apos;Hiberante-17-StoredProcedure-App&apos;&#x0D;&#x0A;- Original element: &apos;in.pwskills.nitin.bean.Products&apos;&#x0D;&#x0A;- Renamed element: &apos;in.pwskills.nitin.bean.Product&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Products&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;in.pwskills.nitin.bean{Products.java[Products" matchStrategy="1" name="Product" qualified="false" references="true" similarDeclarations="false" stamp="1717985400144" textual="false" version="1.0"/>
+</session>

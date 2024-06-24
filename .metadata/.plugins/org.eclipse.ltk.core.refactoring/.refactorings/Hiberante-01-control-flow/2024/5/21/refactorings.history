@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move source folder &apos;src&apos; to &apos;Hiberante-01-control-flow&apos;&#x0D;&#x0A;- Original project: &apos;Hiberante-01-control-flow&apos;&#x0D;&#x0A;- Destination element: &apos;Hiberante-01-control-flow&apos;&#x0D;&#x0A;- Original element: &apos;Hiberante-01-control-flow/Hiberante-01-control-flow/src&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move source folder" destination="=Hiberante-01-control-flow" element1="/Hiberante-01-control-flow\/src" flags="6" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveRoots" roots="1" stamp="1716559428487" version="1.0"/>
+</session>

@@ -1,0 +1,13 @@
+package in.pwskills.nitin.main;
+
+import in.pwskills.nitin.dao.ILibraryDao;
+import in.pwskills.nitin.dao.LibraryDaoImpl;
+
+public class MainApp {
+
+	public static void main(String[] args) {
+
+		ILibraryDao dao = new LibraryDaoImpl();
+		dao.saveRecordUsingParent();
+	}
+}

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\May 31\31_05_2024_source_code_hibernate\Hiberante-37-Pesimistic-Locking"/>
+			<item value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\May 31\31_05_2024_source_code_hibernate\Hiberante-36-Optimistic-Locking"/>
+			<item value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\May 31\31_05_2024_source_code_hibernate\Hiberante-35-N+1SelectQuery-App"/>
+			<item value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\30 May\30_05_2024_hibernate_source_code\Hiberante-34-HQL-JOIN-O2M(BI)"/>
+			<item value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\30 May\30_05_2024_hibernate_source_code\Hiberante-33-Association-Mapping-O2O-FK(BI)"/>
+			<item value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\30 May\30_05_2024_hibernate_source_code\Hiberante-32-Association-Mapping-O2O-PK(BI)"/>
+			<item value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\27 May\27_05_2024_source_code\Hiberante-31-Association-Mapping-M2M(BI)"/>
+			<item value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\27 May\27_05_2024_source_code\Hiberante-30-Association-Mapping-O2M(BI)"/>
+			<item value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\27 May\27_05_2024_source_code\Hiberante-29-Association-Mapping-O2M(UNI)"/>
+			<item value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\26 May\26_05_2024_source_code\Hiberante-28-InheritanceMapping-TBCC"/>
+			<item value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\26 May\26_05_2024_source_code\Hiberante-26-InheritanceMapping-TBSC"/>
+			<item value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\26 May\26_05_2024_source_code\Hiberante-27-InheritanceMapping-TBC"/>
+			<item value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\25 May\25_05_2024_source_code\Hiberante-25-CollectionMapping-App"/>
+			<item value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\25 May\25_05_2024_source_code\Hiberante-24-ComponentMapping-App"/>
+			<item value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\25 May\25_05_2024_source_code\Hiberante-23-Caching-L1L2"/>
+			<item value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\25 May\25_05_2024_source_code\Hiberante-22-SoftDeletion"/>
+			<item value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\25 May\25_05_2024_source_code\Hiberante-21-Filter-App"/>
+			<item value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\23 May\23_05_2024_source_code\Hiberante-20-QBC-Non-SelectApp"/>
+			<item value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\23 May\23_05_2024_source_code\Hiberante-19-QBC"/>
+			<item value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\19 May\19_05_2024_source_code\Hiberante-17-StoredProcedure-App"/>
+			<item value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\19 May\19_05_2024_source_code\Hiberante-16-NativeSQL-Query"/>
+			<item value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\18 May\18_05_2024_source_code\Hibernate-15-PaginationApp"/>
+			<item value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\18 May\18_05_2024_source_code\Hiberante-14-HQL-NamedQuery"/>
+			<item value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\18 May\18_05_2024_source_code\Hiberante-13-HQL-InsertQuery"/>
+			<item value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\17 May\Hiberante-12-Bulk-Operations"/>
+			<item value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\12 May\12_05_2024_source_code\Hiberante-11-custom-generator"/>
+			<item value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\12 May\12_05_2024_source_code\Hiberante-10-jpa-generators"/>
+			<item value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\12 May\12_05_2024_source_code\Hiberante-09-hibernate-generators"/>
+			<item value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\11 May\11_05_2024_source_code\Hiberante-08-hikaricp-connecitonpool"/>
+			<item value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\11 May\11_05_2024_source_code\Hiberante-07-Interactingwith2DB&apos;s"/>
+			<item value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\11 May\11_05_2024_source_code\Hiberante-06-Object-TimeStamping"/>
+			<item value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\11 May\11_05_2024_source_code\Hiberante-05-Object-versioning"/>
+			<item value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\11 May\11_05_2024_source_code\Hiberante-04-LOB-operation"/>
+			<item value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\11 May\11_05_2024_source_code\Hiberante-03-Date-operation"/>
+			<item value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\10 May\10_05_2024_source_code\Hiberante-02-composite-id"/>
+			<item value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\5 May\Hiberante-01-control-flow"/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="534"/>
+		<item key="DIALOG_Y_ORIGIN" value="239"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+</section>

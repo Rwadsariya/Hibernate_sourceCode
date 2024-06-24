@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.lang.Long"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="javax.persistence.MapKeyColumn"/>
+    <fullyQualifiedTypeName name="javax.persistence.Query"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="in.pwskills.nitin.bean.Employee"/>
+    <fullyQualifiedTypeName name="in.pwskills.nitin.bean.Payment"/>
+    <fullyQualifiedTypeName name="org.hibernate.Query"/>
+    <fullyQualifiedTypeName name="in.pwskills.nitin.bean.Patient"/>
+    <fullyQualifiedTypeName name="in.pwskills.nitin.bean.Doctor"/>
+    <fullyQualifiedTypeName name="in.pwskills.nitin.util.HibernateUtil"/>
+</qualifiedTypeNameHistroy>
